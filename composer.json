@@ -1,0 +1,18 @@
+{
+    "name": "kaivladimirv/sum-calculator",
+    "description": "Класс для расчета суммы двух чисел",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Vladimir Kaimonov",
+            "email": "kaivladimirv@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "OtusPackages\\": "src/"
+        }
+    }
+}
